@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">Calendly</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="https://socialify.git.ci/jiteshjampa/Calendly/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
 
-## Available Scripts
+<p id="description">Introducing Calendly Routing Forms: where scheduling meets simplicity. Our platform offers automated solutions for businesses to seamlessly connect with clients students or customers. Create customizable forms embed them effortlessly and engage users with captivating visual demonstrations. With responsive design and integrated social media links revolutionize your scheduling processes today.</p>
 
-In the project directory, you can run:
+<h2>🚀 Demo</h2>
 
-### `npm start`
+[https://calendlysoftware.netlify.app/](https://calendlysoftware.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h2>Project Screenshots:</h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img src="https://snipboard.io/5jnEVQ.jpg" alt="project-screenshot" width="700" height="400/">
 
-### `npm test`
+<img src="https://snipboard.io/m7E9bD.jpg" alt="project-screenshot" width="800" height="400/">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://snipboard.io/aYIJSk.jpg" alt="project-screenshot" width="800" height="400/">
 
-### `npm run build`
+<img src="https://snipboard.io/oUpMCJ.jpg" alt="project-screenshot" width="800" height="400/">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img src="https://snipboard.io/KxGj6y.jpg" alt="project-screenshot" width="800" height="400/">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img src="https://snipboard.io/rIvLSB.jpg" alt="project-screenshot" width="800" height="400/">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src="https://snipboard.io/r6NEhe.jpg" alt="project-screenshot" width="800" height="400/">
 
-### `npm run eject`
+<img src="https://snipboard.io/AXarkt.jpg" alt="project-screenshot" width="800" height="400/">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<img src="https://snipboard.io/3TzCiP.jpg" alt="project-screenshot" width="800" height="400/">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  
+  
+<h2>🧐 Features</h2>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Here're some of the project's best features:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+*   Routing Forms: The website offers routing forms that help in screening and qualifying website visitors or invitees. These forms automate scheduling and offer a seamless customer experience.
+*   Responsive Navigation Bar: The website includes a responsive navigation bar that adjusts its display based on the screen size. It ensures easy navigation for users on various devices.
+*   Hero Section: The hero section provides an engaging introduction to the website's offerings emphasizing the benefits of using routing forms for higher quality connections.
+*   Carousel: A carousel component is included to showcase different aspects or features of the service. It allows users to navigate through multiple slides each containing information and images related to the service.
+*   Services Section: The website includes a services section that elaborates on the benefits and features of the routing forms offered. It provides detailed information along with images and videos to illustrate the functionality.
+*   Footer: The footer section contains essential links and information including company details navigation links and social media links. It also includes options to download the app from app stores and links to various social media platforms.
+*   Tailwind CSS Integration: The website utilizes Tailwind CSS for styling ensuring a clean and modern design with responsive layouts for different screen sizes.
+*   Animation Effects: Animation effects are implemented throughout the website using libraries like AOS (Animate on Scroll) enhancing visual appeal and user experience.
+*   Social Media Integration: The website integrates with various social media platforms allowing users to connect and follow the company's social media accounts directly from the website.
 
-## Learn More
+<h2>🛠️ Installation Steps:</h2>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p>1. Clone the Repository bash</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+git clone https://github.com/yourusername/your-repository.git
+```
 
-### Code Splitting
+<p>2. Navigate to the Project Directory</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+cd your-repository
+```
 
-### Analyzing the Bundle Size
+<p>3. Install Dependencies</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
+npm install
+```
 
-### Making a Progressive Web App
+<p>4. Start the Development Server</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```
+npm start
+```
 
-### Advanced Configuration
+<p>5. Build for Production</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```
+npm run build
+```
 
-### Deployment
+  
+  
+<h2>💻 Built with</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Technologies used in the project:
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*   ReactJs
+*   Tailwind CSS
+*   AOS
